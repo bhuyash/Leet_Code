@@ -6,10 +6,12 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/bhuyash/Leet_Code/tree/master/0031-next-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhuyash/Leet_Code/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/bhuyash/Leet_Code/tree/master/0031-next-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhuyash/Leet_Code/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |

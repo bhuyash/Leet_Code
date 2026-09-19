@@ -7,6 +7,7 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/bhuyash/Leet_Code/tree/master/0031-next-permutation) |
+| [0128-longest-consecutive-sequence](https://github.com/bhuyash/Leet_Code/tree/master/0128-longest-consecutive-sequence) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhuyash/Leet_Code/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -17,4 +18,12 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhuyash/Leet_Code/tree/master/2149-rearrange-array-elements-by-sign) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/bhuyash/Leet_Code/tree/master/0128-longest-consecutive-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/bhuyash/Leet_Code/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

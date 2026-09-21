@@ -8,6 +8,7 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhuyash/Leet_Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/bhuyash/Leet_Code/tree/master/0031-next-permutation) |
+| [0054-spiral-matrix](https://github.com/bhuyash/Leet_Code/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/bhuyash/Leet_Code/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/bhuyash/Leet_Code/tree/master/0128-longest-consecutive-sequence) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhuyash/Leet_Code/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -20,6 +21,7 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/bhuyash/Leet_Code/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhuyash/Leet_Code/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -33,5 +35,6 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/bhuyash/Leet_Code/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/bhuyash/Leet_Code/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->

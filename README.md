@@ -6,6 +6,7 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/bhuyash/Leet_Code/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhuyash/Leet_Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/bhuyash/Leet_Code/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/bhuyash/Leet_Code/tree/master/0048-rotate-image) |
@@ -52,9 +53,14 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/bhuyash/Leet_Code/tree/master/0014-longest-common-prefix) |
 | [1903-largest-odd-number-in-string](https://github.com/bhuyash/Leet_Code/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/bhuyash/Leet_Code/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/bhuyash/Leet_Code/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

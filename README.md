@@ -54,6 +54,7 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bhuyash/Leet_Code/tree/master/0014-longest-common-prefix) |
+| [0796-rotate-string](https://github.com/bhuyash/Leet_Code/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/bhuyash/Leet_Code/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -63,4 +64,8 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bhuyash/Leet_Code/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/bhuyash/Leet_Code/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->

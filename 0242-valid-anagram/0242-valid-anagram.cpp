@@ -1,21 +1,25 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        if(s.size()!=t.size())return false;
-        vector<char> f;
+        if(s.size()!=t.size()) return false;
+        map<char,int> mp;
         for(int i=0;i<s.size();i++)
         {
-            f.push_back(s[i]);
+            if(mp.find(s[i])==mp.end()) mp[s[i]]=1;
+            else mp[s[i]]++;
         }
         for(int i=0;i<t.size();i++)
         {
-            if(find(f.begin(),f.end(), t[i])==f.end()) return false;
-            auto it = find(f.begin(), f.end(), t[i]);
-
-            if(it != f.end())
-
-                f.erase(it);
-                 }
+            if(mp.find(t[i])!=mp.end())
+            {
+                mp[t[i]]--;
+                if(mp[t[i]]==0)
+                {
+                    mp.erase(t[i]);
+                }
+            }
+            else return false;
+        }
         return true;
     }
 };

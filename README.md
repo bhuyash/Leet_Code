@@ -32,6 +32,7 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 | [0073-set-matrix-zeroes](https://github.com/bhuyash/Leet_Code/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/bhuyash/Leet_Code/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/bhuyash/Leet_Code/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/bhuyash/Leet_Code/tree/master/0242-valid-anagram) |
 ## Union-Find
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bhuyash/Leet_Code/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/bhuyash/Leet_Code/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/bhuyash/Leet_Code/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/bhuyash/Leet_Code/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/bhuyash/Leet_Code/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
@@ -70,4 +72,8 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/bhuyash/Leet_Code/tree/master/0796-rotate-string) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/bhuyash/Leet_Code/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->

@@ -13,6 +13,7 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 | [0054-spiral-matrix](https://github.com/bhuyash/Leet_Code/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/bhuyash/Leet_Code/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/bhuyash/Leet_Code/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/bhuyash/Leet_Code/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/bhuyash/Leet_Code/tree/master/0128-longest-consecutive-sequence) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhuyash/Leet_Code/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -52,6 +53,7 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/bhuyash/Leet_Code/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/bhuyash/Leet_Code/tree/master/0119-pascals-triangle-ii) |
 ## String
 |  |
 | ------- |

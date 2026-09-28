@@ -51,6 +51,7 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/bhuyash/Leet_Code/tree/master/0048-rotate-image) |
+| [0507-perfect-number](https://github.com/bhuyash/Leet_Code/tree/master/0507-perfect-number) |
 | [1903-largest-odd-number-in-string](https://github.com/bhuyash/Leet_Code/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |

@@ -16,6 +16,7 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 | [0118-pascals-triangle](https://github.com/bhuyash/Leet_Code/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/bhuyash/Leet_Code/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/bhuyash/Leet_Code/tree/master/0128-longest-consecutive-sequence) |
+| [0204-count-primes](https://github.com/bhuyash/Leet_Code/tree/master/0204-count-primes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhuyash/Leet_Code/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -51,6 +52,7 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/bhuyash/Leet_Code/tree/master/0048-rotate-image) |
+| [0204-count-primes](https://github.com/bhuyash/Leet_Code/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/bhuyash/Leet_Code/tree/master/0507-perfect-number) |
 | [1903-largest-odd-number-in-string](https://github.com/bhuyash/Leet_Code/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
@@ -97,4 +99,24 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/bhuyash/Leet_Code/tree/master/0451-sort-characters-by-frequency) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/bhuyash/Leet_Code/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/bhuyash/Leet_Code/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/bhuyash/Leet_Code/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/bhuyash/Leet_Code/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/bhuyash/Leet_Code/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

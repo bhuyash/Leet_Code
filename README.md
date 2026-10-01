@@ -8,6 +8,7 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bhuyash/Leet_Code/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/bhuyash/Leet_Code/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/bhuyash/Leet_Code/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhuyash/Leet_Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/bhuyash/Leet_Code/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/bhuyash/Leet_Code/tree/master/0048-rotate-image) |
@@ -22,6 +23,7 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 |  |
 | ------- |
 | [0015-3sum](https://github.com/bhuyash/Leet_Code/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/bhuyash/Leet_Code/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhuyash/Leet_Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/bhuyash/Leet_Code/tree/master/0031-next-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhuyash/Leet_Code/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -85,6 +87,7 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 |  |
 | ------- |
 | [0015-3sum](https://github.com/bhuyash/Leet_Code/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/bhuyash/Leet_Code/tree/master/0018-4sum) |
 | [0242-valid-anagram](https://github.com/bhuyash/Leet_Code/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/bhuyash/Leet_Code/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)

@@ -18,6 +18,7 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 | [0119-pascals-triangle-ii](https://github.com/bhuyash/Leet_Code/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/bhuyash/Leet_Code/tree/master/0128-longest-consecutive-sequence) |
 | [0204-count-primes](https://github.com/bhuyash/Leet_Code/tree/master/0204-count-primes) |
+| [0229-majority-element-ii](https://github.com/bhuyash/Leet_Code/tree/master/0229-majority-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhuyash/Leet_Code/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -38,6 +39,7 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 | [0073-set-matrix-zeroes](https://github.com/bhuyash/Leet_Code/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/bhuyash/Leet_Code/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/bhuyash/Leet_Code/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/bhuyash/Leet_Code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/bhuyash/Leet_Code/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/bhuyash/Leet_Code/tree/master/0451-sort-characters-by-frequency) |
 ## Union-Find
@@ -88,6 +90,7 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 | ------- |
 | [0015-3sum](https://github.com/bhuyash/Leet_Code/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/bhuyash/Leet_Code/tree/master/0018-4sum) |
+| [0229-majority-element-ii](https://github.com/bhuyash/Leet_Code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/bhuyash/Leet_Code/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/bhuyash/Leet_Code/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
@@ -101,6 +104,7 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/bhuyash/Leet_Code/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/bhuyash/Leet_Code/tree/master/0451-sort-characters-by-frequency) |
 ## Enumeration
 |  |
@@ -122,4 +126,8 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/bhuyash/Leet_Code/tree/master/0204-count-primes) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/bhuyash/Leet_Code/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->

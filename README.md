@@ -17,6 +17,7 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 | [0118-pascals-triangle](https://github.com/bhuyash/Leet_Code/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/bhuyash/Leet_Code/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/bhuyash/Leet_Code/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/bhuyash/Leet_Code/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/bhuyash/Leet_Code/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/bhuyash/Leet_Code/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/bhuyash/Leet_Code/tree/master/0283-move-zeroes) |
@@ -40,6 +41,7 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/bhuyash/Leet_Code/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/bhuyash/Leet_Code/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/bhuyash/Leet_Code/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/bhuyash/Leet_Code/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/bhuyash/Leet_Code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/bhuyash/Leet_Code/tree/master/0242-valid-anagram) |
@@ -92,6 +94,7 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 | ------- |
 | [0015-3sum](https://github.com/bhuyash/Leet_Code/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/bhuyash/Leet_Code/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/bhuyash/Leet_Code/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bhuyash/Leet_Code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/bhuyash/Leet_Code/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/bhuyash/Leet_Code/tree/master/0451-sort-characters-by-frequency) |
@@ -106,6 +109,7 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/bhuyash/Leet_Code/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bhuyash/Leet_Code/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/bhuyash/Leet_Code/tree/master/0451-sort-characters-by-frequency) |
 ## Enumeration
@@ -131,5 +135,10 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/bhuyash/Leet_Code/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bhuyash/Leet_Code/tree/master/0229-majority-element-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/bhuyash/Leet_Code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

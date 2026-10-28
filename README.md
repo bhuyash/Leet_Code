@@ -19,6 +19,7 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 | [0128-longest-consecutive-sequence](https://github.com/bhuyash/Leet_Code/tree/master/0128-longest-consecutive-sequence) |
 | [0204-count-primes](https://github.com/bhuyash/Leet_Code/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/bhuyash/Leet_Code/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/bhuyash/Leet_Code/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhuyash/Leet_Code/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -27,6 +28,7 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 | [0018-4sum](https://github.com/bhuyash/Leet_Code/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhuyash/Leet_Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/bhuyash/Leet_Code/tree/master/0031-next-permutation) |
+| [0283-move-zeroes](https://github.com/bhuyash/Leet_Code/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhuyash/Leet_Code/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |

@@ -22,6 +22,7 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 | [0229-majority-element-ii](https://github.com/bhuyash/Leet_Code/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/bhuyash/Leet_Code/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhuyash/Leet_Code/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2965-find-missing-and-repeated-values](https://github.com/bhuyash/Leet_Code/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 | [0229-majority-element-ii](https://github.com/bhuyash/Leet_Code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/bhuyash/Leet_Code/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/bhuyash/Leet_Code/tree/master/0451-sort-characters-by-frequency) |
+| [2965-find-missing-and-repeated-values](https://github.com/bhuyash/Leet_Code/tree/master/2965-find-missing-and-repeated-values) |
 ## Union-Find
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 | [0048-rotate-image](https://github.com/bhuyash/Leet_Code/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bhuyash/Leet_Code/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/bhuyash/Leet_Code/tree/master/0073-set-matrix-zeroes) |
+| [2965-find-missing-and-repeated-values](https://github.com/bhuyash/Leet_Code/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
@@ -63,6 +66,7 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 | [0204-count-primes](https://github.com/bhuyash/Leet_Code/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/bhuyash/Leet_Code/tree/master/0507-perfect-number) |
 | [1903-largest-odd-number-in-string](https://github.com/bhuyash/Leet_Code/tree/master/1903-largest-odd-number-in-string) |
+| [2965-find-missing-and-repeated-values](https://github.com/bhuyash/Leet_Code/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |

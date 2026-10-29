@@ -21,6 +21,7 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 | [0204-count-primes](https://github.com/bhuyash/Leet_Code/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/bhuyash/Leet_Code/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/bhuyash/Leet_Code/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/bhuyash/Leet_Code/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/bhuyash/Leet_Code/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/bhuyash/Leet_Code/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhuyash/Leet_Code/tree/master/2149-rearrange-array-elements-by-sign) |

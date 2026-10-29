@@ -22,6 +22,7 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 | [0229-majority-element-ii](https://github.com/bhuyash/Leet_Code/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/bhuyash/Leet_Code/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/bhuyash/Leet_Code/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/bhuyash/Leet_Code/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/bhuyash/Leet_Code/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/bhuyash/Leet_Code/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhuyash/Leet_Code/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -51,6 +52,7 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 | [0229-majority-element-ii](https://github.com/bhuyash/Leet_Code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/bhuyash/Leet_Code/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/bhuyash/Leet_Code/tree/master/0451-sort-characters-by-frequency) |
+| [0645-set-mismatch](https://github.com/bhuyash/Leet_Code/tree/master/0645-set-mismatch) |
 | [2965-find-missing-and-repeated-values](https://github.com/bhuyash/Leet_Code/tree/master/2965-find-missing-and-repeated-values) |
 ## Union-Find
 |  |
@@ -106,6 +108,7 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 | [0229-majority-element-ii](https://github.com/bhuyash/Leet_Code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/bhuyash/Leet_Code/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/bhuyash/Leet_Code/tree/master/0451-sort-characters-by-frequency) |
+| [0645-set-mismatch](https://github.com/bhuyash/Leet_Code/tree/master/0645-set-mismatch) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -149,4 +152,8 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bhuyash/Leet_Code/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/bhuyash/Leet_Code/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->

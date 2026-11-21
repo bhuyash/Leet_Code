@@ -23,6 +23,7 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 | [0283-move-zeroes](https://github.com/bhuyash/Leet_Code/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/bhuyash/Leet_Code/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/bhuyash/Leet_Code/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/bhuyash/Leet_Code/tree/master/0704-binary-search) |
 | [1470-shuffle-the-array](https://github.com/bhuyash/Leet_Code/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/bhuyash/Leet_Code/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhuyash/Leet_Code/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -156,4 +157,8 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/bhuyash/Leet_Code/tree/master/0645-set-mismatch) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/bhuyash/Leet_Code/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->

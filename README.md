@@ -11,6 +11,7 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 | [0018-4sum](https://github.com/bhuyash/Leet_Code/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhuyash/Leet_Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/bhuyash/Leet_Code/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/bhuyash/Leet_Code/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/bhuyash/Leet_Code/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bhuyash/Leet_Code/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/bhuyash/Leet_Code/tree/master/0073-set-matrix-zeroes) |
@@ -160,5 +161,6 @@ A collection of my LeetCode solutions in C++, documenting my journey of learning
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/bhuyash/Leet_Code/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/bhuyash/Leet_Code/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
